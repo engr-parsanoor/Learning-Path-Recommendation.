@@ -1,0 +1,6 @@
+course_id,course_title,category
+C101,Intro to Python,Programming
+C102,Data Structures,CS Fundamentals
+C103,Machine Learning Basics,AI
+C104,Deep Learning with PyTorch,AI
+C105,Version Control with Git,Tools
